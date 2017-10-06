@@ -1,0 +1,30 @@
+---
+layout: single-no-ads
+title: "Build Information"
+lang: en
+permalink: /build-info.html
+---
+
+IDE Used
+---------
+
+[Sublime Text 3](https://www.sublimetext.com/3){: target="_blank"}
+{: .notice--info}
+
+Website Template
+-----------------
+
+[Jekyll](https://jekyllrb.com/docs/home/){: target="_blank"}
+{: .notice--danger}
+
+### Theme
+
+[Minimal Mistakes](http://jekyllthemes.org/themes/minimal-mistakes/){: target="_blank"}
+{: .notice--warning}
+
+Domain Host
+------------
+
+[GitHub Pages](https://pages.github.com/){: target="_blank"}
+{: .notice--primary}
+

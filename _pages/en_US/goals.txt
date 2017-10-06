@@ -1,0 +1,29 @@
+---
+layout: single-no-ads
+title: "Goals" #
+lang: en
+permalink: /goals.html
+---
+
+## Questions: 
+* Each individual awareness
++ What do you want? Information or advocacy? Information 
+- Do you want to learn or you want to do something about it? 
+* What is the goal? 
++ How many activities over the year? One big event or many small event 
+- What is mandatory? 
+{: .notice--warning}
+
+## Requirements: 
+* Attend 3 meeting at least 
+* Attend activities 
+{: .notice--info}
+
+## Testing
+__Lab experiment to show people what stuff actually do to us__ 
+{: .notice--danger}
+
+## Earth day 
++ Jewish Earth day - january 1st 
+- [https://en.wikipedia.org/wiki/Tu_BiShvat](https://en.wikipedia.org/wiki/Tu_BiShvat){: target="_blank"}
+{: .notice--primary}

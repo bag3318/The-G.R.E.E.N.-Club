@@ -1,0 +1,16 @@
+---
+title: "Error 404: Page Not Found" #
+lang: en
+permalink: /404.html
+layout: single-no-ads
+# excerpt: "Page not found. Your pixels are in another canvas." #
+sitemap: true
+---
+
+### Sorry, but the page you were trying to view does not exist.
+
+#### Explanation
+
+> __This site is still being developed; thus many pages are not yet formed nor completed.__
+{: .notice--danger}
+

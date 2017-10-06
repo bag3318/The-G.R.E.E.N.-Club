@@ -1,0 +1,21 @@
+---
+main:
+  -
+    title: Home
+  -
+    title: About
+  -
+    title: Donate
+  -
+    title: Goals
+  -
+    title: Gallery
+  -
+    title: Extra Information
+  -
+    title: Site Navigation
+footer:
+  -
+    title: Source
+  -
+    title: Site Navigation

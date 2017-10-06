@@ -1,0 +1,30 @@
+---
+layout: single-no-ads
+title: "About" #
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: images/alpha-banner-About-us.jpg # http://www.how2shout.com/wp-content/uploads/2016/01/About-Us.png
+  overlay_filter: 0.1
+  cta_label: "Donate"
+  cta_url: "donate"
+lang: en
+permalink: /about.html
+---
+
+# About G.R.E.E.N. Club
+
+> The __G.R.E.E.N. Club__ is all about saving the environment and spreading awareness on trending economic topics today.
+
+![img5](images/9359690-young-sprout-in-the-human-hand-in-the-water-flow-symbol-of-environmental-protection.jpg){:style="float: right;margin: right;height: 208px;"}
+
+{% capture notice-1 %}
+* CO<sub>2</sub> emissions
+* Smog
+* Deforestation
+* Recycling
+{% endcapture %}
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
+
+Our goal is to spread as much awareness about current eco-problems as we can. 
+<br/>
+We also do **hurricane relief support** ([donate here](/donate))

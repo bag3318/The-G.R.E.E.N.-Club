@@ -1,0 +1,32 @@
+---
+layout: splash
+title: "The G.R.E.E.N. Club" #
+excerpt: "There is no Planet B"
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: images/go-green-there-is-no-planet-b-quote-1(1).jpg
+  overlay_filter: 0.25
+  cta_label: "Learn More" #
+  cta_url: "about" #
+lang: en
+permalink: /index.html
+---
+
+![img1](images/photo-power-plant.jpg){:style="float: left;margin-left: 55px;border: 1px solid gray;border-radius: 8px;height: 200px;"}
+![img1](images/EPA_hurricane_madeleine_and_lester_jt_160831_4x3_992.jpg){:style="float: left;margin-left: 55px;border: 1px solid gray;border-radius: 8px;height: 200px;"}
+![img1](images/environmental.jpg){:style="float: left;margin-left: 55px;border: 1px solid gray;border-radius: 8px;height: 200px;"}
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+{% capture notice-1 %}
+Welcome to the **G.R.E.E.N. Club**! The purpose of this club is to learn about the climate change and become aware of how it is affecting us. Our first club meeting will be held in Rabbi Hyman's room during lunch on Wednesday. Until then, please research some of the following topics:
+{:style="float: none;text-align: center;font-size: 16px;"}
+{% endcapture %}
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
+
+
+> 1. What is Carbon Offset?
+> 2. Climate Change/Global Warming (whether you believe it or not)
+> 3. Environmental disasters(Hurricane Irma & Harvey, earthquake in Mexico)
+{:style="float: none;"}
+{: .notice--primary}

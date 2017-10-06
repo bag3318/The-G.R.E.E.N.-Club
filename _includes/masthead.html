@@ -1,0 +1,27 @@
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <ul class="visible-links">
+          {% assign split_path = page.path | split: "/" %}
+          {% assign locale = split_path[1] %}
+          {% assign titles = site.data.navigation[locale].main %}
+          {% if locale == 'en_US' %}
+            {% assign locale_var = '/' %}
+          {% else %}
+            {% assign locale_var = locale | prepend:'/' | append:'/' %}
+          {% endif %}
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ domain }}{{ locale_var }}">{{ titles[0].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}about">{{ titles[1].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}donate">{{ titles[2].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}goals">{{ titles[3].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}gallery">{{ titles[4].title }}</a></li>
+          {% comment %}
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}xtra-info">{{ titles[5].title }}</a></li>
+          {% endcomment %}
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}sitenav">{{ titles[6].title }}</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,32 @@
+---
+title: "Site Navigation" #
+lang: en
+permalink: /sitenav.html
+layout: single-no-ads
+sitemap: true
+---
+
+{% capture notice-1 %}
+**Main Pages**
++ [Home Page](./)
+- [About](about)
++ [Donate](donate)
+- [Goals](goals)
+* [Gallery](gallery)
+{% endcapture %}
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
+
+{% capture notice-3 %}
+**Extra Pages**
++ [Build Information](build-info)
+- [Site Navigation](sitenav)
+* [Sitemap](sitemap.xml)
+{% endcapture %}
+<div class="notice--warning">{{ notice-3 | markdownify }}</div>
+
+{% capture notice-2 %}
+**Other Pages**
+* [Website Testing](test) 
+{% endcapture %}
+<div class="notice--danger">{{ notice-2 | markdownify }}</div>
+

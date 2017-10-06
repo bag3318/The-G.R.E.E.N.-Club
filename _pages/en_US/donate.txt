@@ -1,0 +1,19 @@
+---
+layout: splash
+title: "Donate"
+excerpt: "Support The Red Cross"
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: images/Capture.PNG
+  overlay_filter: 0.25 
+lang: en
+permalink: /donate.html
+---
+
+# Donate Here:
+<br/>
+[![img2](images/PayPal-Donate-Button-PNG-Clipart.png){:style="height:55px;"}](https://www.redcross.org/donate/hurricane-irma-donations?campname=irma&campmedium=aspot){: target="_blank"}
+
+> _Donate to the Red Cross for Hurricane Irma support._
+> **Every penny helps!**
+{: .notice--primary}

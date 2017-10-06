@@ -1,0 +1,39 @@
+---
+layout: single
+title: "Testing" #
+lang: en
+permalink: /test.html
+---
+
+# website testing
+
+{% highlight ruby %}
+def print_hi(name)
+	puts "Hi, #{name}"
+end
+print_hi('Bob')
+#=> prints 'Hi, Bob' to STDOUT.
+{% endhighlight %}
+
+[testing](https://www.google.com){: target="_blank"}
+
+hello
+{: .notice--info}
+
+hello
+{: .notice--primary}
+
+hello
+{: .notice--warning}
+
+hello
+{: .notice--danger}
+
+> hello
+
+**hello**
+
+_hello_
+
+[hello](#)
+
