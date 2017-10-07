@@ -27,4 +27,4 @@ permalink: /about.html
 
 Our goal is to spread as much awareness about current eco-problems as we can. 
 <br/>
-We also do **hurricane relief support** (click ([here](/donate) to donate).
+We also do **hurricane relief support** (click [here](/donate) to donate).
