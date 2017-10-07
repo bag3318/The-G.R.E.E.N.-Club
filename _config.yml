@@ -4,7 +4,7 @@ port                     : 1988
 locale                   : "en-US"
 title                    : "TVT G.R.E.E.N. Club"
 title_separator          : "-"
-name                     : "Green Club"
+name                     : "G.R.E.E.N. Club"
 description              : "Club for School"
 url                      : "https://bag3318.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 enforce_ssl              : ""
