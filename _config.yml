@@ -6,9 +6,9 @@ title                    : "TVT"
 title_separator          : "-"
 name                     : "Green Club"
 description              : "Club for School"
-url                      : "https://bag3318.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://bag3318.github.io/The-G.R.E.E.N.-Club" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 enforce_ssl              : ""
-baseurl                  : "/The-G.R.E.E.N.-Club/" # "/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # "/" # the subpath of your site, e.g. "/blog"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200

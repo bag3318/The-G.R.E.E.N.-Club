@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
-gemspec
 gem "jekyll"
 gem "jekyll-paginate"
+gem "minimal-mistakes-jekyll"
+gem "jekyll-theme-minimal"
