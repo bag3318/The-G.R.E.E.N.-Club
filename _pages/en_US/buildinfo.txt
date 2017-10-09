@@ -28,4 +28,3 @@ Domain Host
 [GitHub Pages](https://pages.github.com/){: target="_blank"}
 {: .notice--primary}
 
-<br/><br/><br/><br/><br/>

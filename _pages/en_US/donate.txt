@@ -18,4 +18,3 @@ permalink: /donate.html
 > **Every penny helps!**
 {: .notice--danger}
 
-<br/><br/><br/><br/><br/>

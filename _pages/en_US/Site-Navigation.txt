@@ -30,4 +30,3 @@ sitemap: true
 {% endcapture %}
 <div class="notice--danger">{{ notice-2 | markdownify }}</div>
 
-<br/><br/><br/><br/><br/>

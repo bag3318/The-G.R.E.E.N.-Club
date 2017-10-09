@@ -51,4 +51,3 @@ Welcome to the **G.R.E.E.N. Club**! The purpose of this club is to learn about t
 {:style="float: none;"}
 {: .notice--primary}
 
-<br/><br/><br/><br/><br/>
