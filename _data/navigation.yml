@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: ./
+  - title: "Goals"
+    url: goals
+  - title: "Donate"
+    url: /donate/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "About"
+    url: /about/
