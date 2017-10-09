@@ -15,7 +15,7 @@ feature_row:
   - image_path: images/EPA_hurricane_madeleine_and_lester_jt_160831_4x3_992.jpg
     excerpt: "Hurricanes Madeleine and Lester"
   - image_path: images/environmental.jpg
-    excerpt: "Morning dew on a leaf dripping into a puddle"
+    excerpt: "Morning dew"
 permalink: /index.html
 ---
 
