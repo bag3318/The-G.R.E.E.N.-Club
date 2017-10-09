@@ -9,14 +9,34 @@ header:
   cta_label: "Learn More" #
   cta_url: "about" #
 lang: en
+feature_row:
+  - image_path:	images/photo-power-plant.jpg
+    # alt: "placeholder image 1"
+    # title: "Placeholder 1"
+    # excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: images/EPA_hurricane_madeleine_and_lester_jt_160831_4x3_992.jpg
+    # alt: "placeholder image 2"
+    # title: "Placeholder 2"
+    # excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    # url: "#test-link"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
+  - image_path: images/environmental.jpg
+    # title: "Placeholder 3"
+    # excerpt: "This is some sample content that goes here with **Markdown** formatting."
 permalink: /index.html
 ---
+
+
+{% include feature_row %}
+<!--
 
 ![img1](images/photo-power-plant.jpg){:style="float: left;margin-left: 55px;border: 1px solid gray;border-radius: 8px;height: 200px;"}
 ![img1](images/EPA_hurricane_madeleine_and_lester_jt_160831_4x3_992.jpg){:style="float: left;margin-left: 55px;border: 1px solid gray;border-radius: 8px;height: 200px;"}
 ![img1](images/environmental.jpg){:style="float: left;margin-left: 55px;border: 1px solid gray;border-radius: 8px;height: 200px;"}
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+-->
+<!-- <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+ -->
 
 {% capture notice-1 %}
 Welcome to the **G.R.E.E.N. Club**! The purpose of this club is to learn about the climate change and become aware of how it is affecting us. Our first club meeting will be held in Rabbi Hyman's room during lunch on Wednesday. Until then, please research some of the following topics:
