@@ -7,10 +7,6 @@ layout: single-no-ads
 sitemap: true
 ---
 
-### Sorry, but the page you were trying to view does not exist.
-
-#### Explanation
-
-> __This site is still being developed; thus many pages are not yet formed nor completed.__
+Sorry, but the page you are trying to view does not exist.
 {: .notice--danger}
-
+{: style="font-size: 18px;"}

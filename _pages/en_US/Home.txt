@@ -29,14 +29,6 @@ permalink: /index.html
 
 
 {% include feature_row %}
-<!--
-
-![img1](images/photo-power-plant.jpg){:style="float: left;margin-left: 55px;border: 1px solid gray;border-radius: 8px;height: 200px;"}
-![img1](images/EPA_hurricane_madeleine_and_lester_jt_160831_4x3_992.jpg){:style="float: left;margin-left: 55px;border: 1px solid gray;border-radius: 8px;height: 200px;"}
-![img1](images/environmental.jpg){:style="float: left;margin-left: 55px;border: 1px solid gray;border-radius: 8px;height: 200px;"}
--->
-<!-- <br/><br/><br/><br/><br/><br/><br/><br/><br/>
- -->
 
 {% capture notice-1 %}
 Welcome to the **G.R.E.E.N. Club**! The purpose of this club is to learn about the climate change and become aware of how it is affecting us. Our first club meeting will be held in Rabbi Hyman's room during lunch on Wednesday. Until then, please research some of the following topics:
@@ -47,7 +39,7 @@ Welcome to the **G.R.E.E.N. Club**! The purpose of this club is to learn about t
 
 > 1. What is Carbon Offset?
 > 2. Climate Change/Global Warming (whether you believe it or not)
-> 3. Environmental disasters(Hurricane Irma & Harvey, earthquake in Mexico)
+> 3. Environmental disasters (Hurricane Irma & Harvey, earthquake in Mexico)
 {:style="float: none;"}
 {: .notice--primary}
 
