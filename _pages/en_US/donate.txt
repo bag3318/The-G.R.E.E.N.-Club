@@ -17,3 +17,5 @@ permalink: /donate.html
 > _Donate to the Red Cross for Hurricane Irma support._
 > **Every penny helps!**
 {: .notice--danger}
+
+<br/><br/><br/><br/><br/>

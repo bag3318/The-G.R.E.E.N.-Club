@@ -15,7 +15,7 @@ permalink: /about.html
 
 > The __G.R.E.E.N. Club__ is all about saving the environment and spreading awareness on trending economic topics today.
 
-![img5](images/9359690-young-sprout-in-the-human-hand-in-the-water-flow-symbol-of-environmental-protection.jpg){:style="float: right;margin: right;height: 208px;"}
+![img5](images/9359690-young-sprout-in-the-human-hand-in-the-water-flow-symbol-of-environmental-protection.jpg){:style="float: right;margin: right;height: 208px;position: relative;"}
 
 {% capture notice-1 %}
 * CO<sub>2</sub> emissions
@@ -28,3 +28,5 @@ permalink: /about.html
 Our goal is to spread as much awareness about current eco-problems as we can. 
 <br/>
 We also do **hurricane relief support** (click [here](/donate) to donate).
+
+<br/><br/><br/><br/><br/>

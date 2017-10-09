@@ -10,7 +10,7 @@
             {% assign locale_var = '/' %}
           {% else %}
             {% assign locale_var = locale | prepend:'/' | append:'/' %}
-          {% endif %}
+          {% endif %}<!-- 
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ domain }}{{ locale_var }}">{{ titles[0].title }}</a></li>
           <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}goals">{{ titles[1].title }}</a></li>
           <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}donate">{{ titles[2].title }}</a></li>
@@ -21,6 +21,43 @@
           {% endcomment %}
           <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}sitenav">{{ titles[6].title }}</a></li>
         </ul>
+         -->
+        <ul class="visible-links">
+
+          {% assign split_path = page.path | split: "/" %}
+
+          {% assign locale = split_path[1] %}
+
+          {% assign titles = site.data.navigation[locale].main %}
+
+          {% if locale == 'en_US' %}
+
+            {% assign locale_var = '/' %}
+
+          {% else %}
+
+            {% assign locale_var = locale | prepend:'/' | append:'/' %}
+
+          {% endif %}
+
+          {% for link in site.data.navigation[locale].main %}
+
+            {% if link.url == "/" %}
+
+              <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ domain }}{{ locale_var }}">{{ link.title }}</a></li>
+
+            {% else %}
+
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}{{ link.url }}">{{ link.title }}</a></li>
+
+            {% endif %}
+
+          {% endfor %}
+
+        </ul>
+
+        <ul class="hidden-links links-menu hidden"></ul>
+        <button class="navsel"><div class="navicon"></div></button>
       </nav>
     </div>
   </div>

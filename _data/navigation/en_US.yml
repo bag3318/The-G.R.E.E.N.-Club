@@ -10,8 +10,8 @@ main:
     title: Gallery
   -
     title: About
-  -
-    title: Extra Information
+  # -
+  #   title: Extra Information
   -
     title: Site Navigation
 footer:

@@ -50,3 +50,5 @@ Welcome to the **G.R.E.E.N. Club**! The purpose of this club is to learn about t
 > 3. Environmental disasters(Hurricane Irma & Harvey, earthquake in Mexico)
 {:style="float: none;"}
 {: .notice--primary}
+
+<br/><br/><br/><br/><br/>
