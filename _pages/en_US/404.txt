@@ -7,7 +7,9 @@ layout: single-no-ads
 sitemap: true
 ---
 
-<!-- Sorry, but the page you are trying to view does not exist. -->
+{::comment}
+Sorry, but the page you are trying to view does not exist.
+{:/comment}
 
 This is not the page you are looking for!
 {: .notice--danger}
