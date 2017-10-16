@@ -14,7 +14,7 @@ sitemap: true
 - [Goals](goals)
 {::comment}
 * [Gallery](gallery)
-{:/commetn}
+{:/comment}
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
