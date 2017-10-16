@@ -8,25 +8,25 @@ sitemap: true
 
 {% capture notice-1 %}
 **Main Pages**
-+ [Home Page](./)
-- [About](about)
-+ [Donate](donate)
-- [Goals](goals)
++ [Home Page](./){: style="color: #000000"}
+- [About](about){: style="color: #000000"}
++ [Donate](donate){: style="color: #000000"}
+- [Goals](goals){: style="color: #000000"}
 {::comment}* [Gallery](gallery){:/comment}
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-3 %}
 **Extra Pages**
-+ [Build Information](build-info)
-- [Site Navigation](sitenav)
-* [Sitemap](sitemap.xml)
++ [Build Information](build-info){: style="color: #000000"}
+- [Site Navigation](sitenav){: style="color: #000000"}
+* [Sitemap](sitemap.xml){: style="color: #000000"}
 {% endcapture %}
 <div class="notice--warning">{{ notice-3 | markdownify }}</div>
 
 {% capture notice-2 %}
 **Other Pages**
-* [Website Testing](test) 
+* [Website Testing](test){: style="color: #000000"}
 {% endcapture %}
 <div class="notice--danger">{{ notice-2 | markdownify }}</div>
 

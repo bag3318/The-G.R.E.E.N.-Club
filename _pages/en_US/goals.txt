@@ -25,5 +25,5 @@ __Lab experiment to show people what stuff actually do to us__
 
 ## Earth day 
 + Jewish Earth day - january 1st 
-- [https://en.wikipedia.org/wiki/Tu_BiShvat](https://en.wikipedia.org/wiki/Tu_BiShvat){: target="_blank"}
+- [https://en.wikipedia.org/wiki/Tu_BiShvat](https://en.wikipedia.org/wiki/Tu_BiShvat){: target="_blank"}{: style="color: #000000"}
 {: .notice--primary}
