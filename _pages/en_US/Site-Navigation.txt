@@ -12,9 +12,7 @@ sitemap: true
 - [About](about)
 + [Donate](donate)
 - [Goals](goals)
-{::comment}
-* [Gallery](gallery)
-{:/comment}
+{::comment}* [Gallery](gallery){:/comment}
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
