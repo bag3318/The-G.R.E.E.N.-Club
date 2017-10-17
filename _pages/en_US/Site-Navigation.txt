@@ -10,7 +10,7 @@ sitemap: true
 **Main Pages**
 + [Home Page](./){: style="color: #000000"}
 - [About](about){: style="color: #000000"}
-+ [Donate](donate){: style="color: #000000"}
++ [Hurricane Relief](donate){: style="color: #000000"}
 - [Goals](goals){: style="color: #000000"}
 {::comment}* [Gallery](gallery){:/comment}
 {% endcapture %}
