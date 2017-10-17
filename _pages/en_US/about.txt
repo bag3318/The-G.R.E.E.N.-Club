@@ -5,8 +5,8 @@ header:
   overlay_color: "#5e616c" #
   overlay_image: images/alpha-banner-About-us.jpg # http://www.how2shout.com/wp-content/uploads/2016/01/About-Us.png
   overlay_filter: 0.1
-  cta_label: "Donate"
-  cta_url: "donate"
+  # cta_label: "Donate"
+  # cta_url: "donate"
 lang: en
 permalink: /about.html
 ---
