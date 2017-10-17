@@ -11,7 +11,7 @@ lang: en
 permalink: /about.html
 ---
 
-# About G.R.E.E.N. Club
+# About The G.R.E.E.N. Club
 
 > The __G.R.E.E.N. Club__ is all about saving the environment and spreading awareness on trending economic topics today.
 
